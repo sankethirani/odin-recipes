@@ -1,0 +1,1 @@
+This is the practical project to put into practice the HTML knowledge I have acquired in the TOP foundations course. 
